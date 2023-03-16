@@ -1,7 +1,8 @@
 #include <stdio.h>
-/** 
- * using printf
- * main - Entry point
+/**
+ * just a printf function
+ * main- entry
+ * return- nothing
  */
 int main(void)
 {
